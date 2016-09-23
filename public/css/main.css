@@ -9,16 +9,17 @@ body {
 
 .box-sm {
   background-color:blue;
-  height:100px;
-  width:50px;
-  padding-left: 100px;
-  padding-top: 100px;
+  height:125px;
+  width:350px;
+  margin-top: 80px;
 }
 
 .box-md {
   background-color:red;
-  width: 80%;
+  width: 500px;
   height: 300px;
+  padding-left: 300px;
+  padding-right: 100px;
 }
 
 .box-lg{
